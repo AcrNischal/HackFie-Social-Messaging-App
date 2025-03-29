@@ -1,17 +1,17 @@
 # HackFie 📱
 
 <p align="center">
-  <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" />
+  <a href="https://github.com/AcrNischal/HackFie-Social-Messaging-App/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/AcrNischal/HackFie-Social-Messaging-App?style=for-the-badge" />
   </a>
-  <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/stargazers">
-    <img src="https://img.shields.io/github/stars/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" />
+  <a href="https://github.com/AcrNischal/HackFie-Social-Messaging-App/stargazers">
+    <img src="https://img.shields.io/github/stars/AcrNischal/HackFie-Social-Messaging-App?style=for-the-badge" />
   </a>
-  <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/forks">
-    <img src="https://img.shields.io/github/forks/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge" />
+  <a href="https://github.com/AcrNischal/HackFie-Social-Messaging-App/forks">
+    <img src="https://img.shields.io/github/forks/AcrNischal/HackFie-Social-Messaging-App?style=for-the-badge" />
   </a>
-  <a href="https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Nischal-Acharya/HackFie-Social-Messaging-App?style=for-the-badge&color=purple" />
+  <a href="https://github.com/AcrNischal/HackFie-Social-Messaging-App/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/AcrNischal/HackFie-Social-Messaging-App?style=for-the-badge&color=purple" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@ HackFie is a modern and secure social messaging app built with Kotlin. It offers
 ### Android Studio
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App.git
+   git clone https://github.com/AcrNischal/HackFie-Social-Messaging-App.git
    ```
 2. **Open the project** in Android Studio.
 3. **Build & Run** the application on an emulator or a real device.
@@ -80,7 +80,7 @@ We welcome contributions! Follow these steps:
 
 1. **Fork & Clone** the repository:
    ```sh
-   git clone https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App.git
+   git clone https://github.com/AcrNischal/HackFie-Social-Messaging-App.git
    ```
 2. **Create a new branch**:
    ```sh
@@ -104,7 +104,7 @@ HackFie is licensed under the [MIT License](LICENSE).
 
 ## 📞 Contact
 - **Email**: [nismsg1@gmail.com](mailto:nismsg1@gmail.com)
-- **GitHub**: [Nischal-Acharya](https://github.com/Nischal-Acharya)
+- **GitHub**: [AcrNischal](https://github.com/AcrNischal)
 - **Twitter**: [@nishchal_acc](https://twitter.com/nishchal_acc)
 
 ---
@@ -118,5 +118,5 @@ HackFie is licensed under the [MIT License](LICENSE).
 
 🎉 **Enjoy using HackFie and feel free to modify it!** 🌟  
 
-[![Star](https://img.shields.io/github/stars/Nischal-Acharya/HackFie-Social-Messaging-App?style=social)](https://github.com/Nischal-Acharya/HackFie-Social-Messaging-App)
+[![Star](https://img.shields.io/github/stars/AcrNischal/HackFie-Social-Messaging-App?style=social)](https://github.com/AcrNischal/HackFie-Social-Messaging-App)
 
